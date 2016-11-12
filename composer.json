@@ -3,6 +3,6 @@
     "description": "Gentelella Admin is a free to use Bootstrap admin template",
     "type": "theme",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "require": {}
 }
