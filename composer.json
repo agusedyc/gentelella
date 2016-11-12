@@ -1,0 +1,25 @@
+{
+  "name": "puikinsh/gentelella",
+  "description": "Gentelella Admin is a free to use Bootstrap admin template",
+  "homepage": "https://colorlib.com/polygon/gentelella/index.html",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Abdullah Almsaeed"
+    },
+    {
+      "name : "Christian Esperar"
+    }
+  ],
+  "license": "MIT"
+}
